@@ -1,0 +1,7 @@
+https://github.com/shadab4150/kidney-disease-PCA?tab=readme-ov-file
+
+dataset
+https://shadab4150.github.io/kidney-disease-PCA/report1.html
+
+project overview with output
+https://shadab4150.github.io/kidney-disease-PCA/Copy_of_kidney_diseade_EDA1.html
